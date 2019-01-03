@@ -22,10 +22,10 @@
             <commodity id="rx000009" consume="250" describe="滑稽2" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx000010" consume="350" describe="滑稽3" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
             <commodity id="rx000011" consume="450" describe="滑稽4" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
-            <commodity id="rx000012" consume="550" describe="滑稽5" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
-            <commodity id="rx000013" consume="650" describe="滑稽6" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
-            <commodity id="rx000014" consume="750" describe="滑稽7" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
-            <commodity id="rx000015" consume="6666" describe="菜大老板的礼盒" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000012" consume="550" describe="碎片5" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
+            <commodity id="rx000013" consume="650" describe="爆竹" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000014" consume="750" describe="一包咸榨菜" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
+            <commodity id="rx000015" consume="6666" describe="冬季的慰问" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx686868" consume="999" describe="直接通关" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>                       
             </Panel>
        </shop>
