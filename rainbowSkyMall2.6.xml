@@ -11,7 +11,7 @@
             <commodity id="rx000001" consume="0" describe="秒变非酋" Route="http://192.168.1.151/RainbowGame/rx000000.png">暂定</commodity>
             <commodity id="rx000002" consume="0" describe="升级卡" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx000003" consume="0" describe="回血药水" Route="http://192.168.1.151/RainbowGame/rx000000.png">回血999999</commodity>
-            <commodity id="rx000004" consume="0" describe="别人家的猫" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">被卖了</commodity>
+            <commodity id="rx000004" consume="999999999" describe="别人家的猫(天价)" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">被卖了</commodity>
             <commodity id="rx000005" consume="0" describe="SSSSSS敲蒜锤锤" Route="http://192.168.1.151/RainbowGame/rx000000.png">勉勉强强能打得过0.1级非酋大蒜</commodity>
             <commodity id="rx000006" consume="9.9" describe="神级大蒜" Route="http://192.168.1.151/RainbowGame/rxkyLoge.gif">神力大蒜一只赛过原子弹</commodity>
             <commodity id="rx000007" consume="9999" describe="SSSSSS大蒜" Route="http://192.168.1.151/RainbowGame/rx000000.png">掺了金坷垃的大蒜</commodity>
