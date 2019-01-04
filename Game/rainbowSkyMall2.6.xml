@@ -19,9 +19,9 @@
           </Panel>
           <Panel>
             <commodity id="rx000008" consume="150" describe="滑稽1" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
-            <commodity id="rx000009" consume="250" describe="滑稽2" Route="http://http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000009" consume="250" describe="滑稽2" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx000010" consume="350" describe="滑稽3" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
-            <commodity id="rx000011" consume="450" describe="滑稽4" Route="http://http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
+            <commodity id="rx000011" consume="450" describe="滑稽4" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx000012" consume="550" describe="滑稽5" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
             <commodity id="rx000013" consume="650" describe="滑稽6" Route="http://rainbowsky.meowcat.org/Game/rxkyLoge.gif">暂定</commodity>
             <commodity id="rx000014" consume="750" describe="咸魚" Route="http://rainbowsky.meowcat.org/Game/rx000000.png">暂定</commodity>
